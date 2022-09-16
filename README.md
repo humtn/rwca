@@ -8,4 +8,4 @@ https://user-images.githubusercontent.com/112414704/190648555-ca1d3f38-0c39-48fb
 
 Lining two consecutive particles :
 
-![rw](https://user-images.githubusercontent.com/112414704/190648095-5ac1b797-afd9-412b-b9e9-269ad13f095b.png | width=25)
+![rw](https://user-images.githubusercontent.com/112414704/190649589-f9cfc9d3-98f1-4654-b70e-81227b7e16cb.png)
